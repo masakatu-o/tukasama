@@ -4,7 +4,7 @@
 
 **Kn48X48_151.png**
 
-- Knight Tour 48X48 画像
+- closed Knight Tour 48X48 画像
 
 **Kn48X48_151.csv**
 
@@ -12,7 +12,7 @@
   
 **KnightTour304X304.png**
 
-- Knight Tour 304X304 画像
+- closed Knight Tour 304X304 画像
 
 **Sequence304X304.csv**
 
